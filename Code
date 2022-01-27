@@ -1,0 +1,5 @@
+#Note this is in python, which I am still learning lol
+
+print('Hello World!')
+print('My name is Josh', end=' ')
+print('And I am learning python in college currently.')
